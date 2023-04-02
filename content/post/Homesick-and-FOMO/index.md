@@ -6,7 +6,7 @@ tags: []
 categories: []
 author: ""
 cover: ""
-description: "Today one of my best friends is getting married to his high school sweetheart. I'm missing it. Insert ugly crying images now. I'm so heartbroken to miss it."
+description: "Today one of my best friends is getting married to his high school sweetheart. I'm missing it. Insert ugly crying images now. I'm so heartbroken to miss it..."
 pagebundles: true
 ---
 
